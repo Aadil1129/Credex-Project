@@ -51,7 +51,7 @@ export default function Testimonials() {
                 <FaQuoteLeft className="w-8 h-8" />
               </div>
               <blockquote className="text-gray-600 dark:text-gray-300 mb-6 relative z-10">
-                "{testimonial.quote}"
+                &ldquo;{testimonial.quote}&rdquo;
               </blockquote>
               <div className="flex items-center">
                 <div>

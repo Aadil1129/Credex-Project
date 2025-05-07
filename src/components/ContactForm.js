@@ -96,7 +96,7 @@ export default function ContactForm() {
             Get Your License Valuation
           </h2>
           <p className="text-gray-600 dark:text-gray-300 text-xl">
-            Fill out the form below and we'll get back to you within 24 hours
+            Fill out the form below and we&apos;ll get back to you within 24 hours
           </p>
         </motion.div>
 
@@ -106,7 +106,7 @@ export default function ContactForm() {
             animate={{ opacity: 1 }}
             className="bg-green-100 dark:bg-green-800 p-4 rounded-lg text-green-700 dark:text-green-100 text-center mb-8"
           >
-            Thank you for your submission! We'll be in touch soon.
+            Thank you for your submission! We&apos;ll be in touch soon.
           </motion.div>
         ) : null}
 
